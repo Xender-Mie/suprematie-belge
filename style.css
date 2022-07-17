@@ -1,0 +1,55 @@
+div{
+	font-family:Arial;
+	width:auto;
+	height:auto;
+	margin:auto;
+	border:2px solid black;
+	text-align:center;
+}
+
+#entete,#pied{
+	background-image:url(images/fond.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-size:100% 100%;
+}
+
+#menu{
+	background-color:#F5F5F5;
+}
+
+h1{
+	font-size:48px;
+}
+
+h2{
+	font-size:37px;
+}
+
+h3{
+	font-size:32px;
+}
+
+h4{
+	font-size:28px;
+}
+
+button{
+	background-color:#D3D3D3;
+	height:3%;
+	width:6%;
+}
+
+p{
+	font-size:22px;
+}
+
+#bière{
+	text-align:center-left;
+}
+
+#moine{
+	height:-70%;
+	width:-70%;
+}
